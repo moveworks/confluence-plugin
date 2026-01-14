@@ -1,6 +1,6 @@
 # Confluence Plugin
 
-The moveworks_search plugin for Confluence Server or Data Center editions provides users and group permission for a given space id. Along with this the API returns Instance Info (version number) and Plugin Info (version number)
+The moveworks_search plugin for Confluence Server or Data Center editions provides users and group permission for a given space id. The API also returns Instance Info (version number) and Plugin Info (version number).
 
 ## Installation
 
